@@ -1,0 +1,4 @@
+patchright
+requests
+asyncio
+typing
