@@ -26,7 +26,7 @@ patchright install #to install the browser for browser automation
 
 ### Step 1: Extract Authentication Tokens (Login-based)
 ```bash
-python3 browser_automation.py
+python3 browser.py
 ```
 **Purpose**: Login to Instagram and extract authentication tokens
 **Requirements**: `login.txt` with username and password
