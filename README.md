@@ -16,8 +16,8 @@ This project is for **educational purposes only**. Scraping Instagram may violat
 
 ### Installation
 ```bash
-git clone <your-repo-url>
-cd instagram-scraper-without-login
+git clone git@github.com:G1r00t/Instagram_Scraper.git
+cd instagram_scraper/Without-login
 pip install -r requirements.txt
 ```
 
