@@ -19,6 +19,7 @@ This project is for **educational purposes only**. Scraping Instagram may violat
 git clone https://github.com/G1r00t/Instagram_Scraper.git
 cd instagram_scraper/Without-login
 pip install -r requirements.txt
+patchright install #to install the browser for browser automation
 ```
 
 ## 📋 Complete Workflow
